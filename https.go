@@ -1,7 +1,7 @@
 package main
 
 import (
-	"PortForwardGo/zlog"
+	"SolusVMNAT/zlog"
 	"net"
 	"strings"
 
