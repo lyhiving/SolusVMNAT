@@ -54,7 +54,7 @@ const Page503 = `<!DOCTYPE html>
 			<li><a href="https://jingyan.baidu.com/article/6d704a13fb6e1828db51ca3a.html" target="_blank">刷新您的 DNS 缓存</a> 或 更换网络环境访问</li>
 		</ul>
 		<div>
-			<p style="float: right; margin: 0">Powered by <a href="https://github.com/CoiaPrant/PortForwardGo">PortForwardGo</a></p>
+			<p style="float: right; margin: 0">Powered by <a href="https://github.com/CoiaPrant/SolusVMNAT">SolusVMNAT</a></p>
 		</div>
 	</div>
 
@@ -112,7 +112,7 @@ const Page522 = `<!DOCTYPE html>
 			<li><a href="https://jingyan.baidu.com/article/6d704a13fb6e1828db51ca3a.html" target="_blank">刷新您的 DNS 缓存</a> 或 更换网络环境访问</li>
 		</ul>
 		<div>
-			<p style="float: right; margin: 0">Powered by <a href="https://github.com/CoiaPrant/PortForwardGo">PortForwardGo</a></p>
+			<p style="float: right; margin: 0">Powered by <a href="https://github.com/CoiaPrant/SolusVMNAT">SolusVMNAT</a></p>
 		</div>
 	</div>
 
@@ -171,7 +171,7 @@ const Page404 = `<!DOCTYPE html>
 			<li><a href="https://jingyan.baidu.com/article/6d704a13fb6e1828db51ca3a.html" target="_blank">刷新您的 DNS 缓存</a> 或 更换网络环境访问</li>
 		</ul>
 		<div>
-			<p style="float: right; margin: 0">Powered by <a href="https://github.com/CoiaPrant/PortForwardGo">PortForwardGo</a></p>
+			<p style="float: right; margin: 0">Powered by <a href="https://github.com/CoiaPrant/SolusVMNAT">SolusVMNAT</a></p>
 		</div>
 	</div>
 
