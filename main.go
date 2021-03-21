@@ -341,7 +341,7 @@ func shell_exec(command string) string {
 	// 执行系统命令
 	// 第一个参数是命令名称
 	// 后面参数可以有多个，命令参数
-	cmd := exec.Command("/usr/bin/bash", "-c", command)
+	cmd := exec.Command("/bin/bash", "-c", command)
 	// 获取输出对象，可以从该对象中读取输出结果
 	stdout, err := cmd.StdoutPipe()
 	if err != nil {
