@@ -1,7 +1,7 @@
 @echo off
 set UserName=CoiaPrant
 set Name=SolusVMNAT
-set Version=1.0.2
+set Version=1.0.3
 
 echo %Version%>version
 
